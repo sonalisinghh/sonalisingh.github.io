@@ -1,0 +1,49 @@
+---
+title: "Sonali Singh"
+format: 
+  html:
+    theme: minty
+---
+
+# Experience
+
+## Job Title 1
+
+**Company Name** - *Location*\
+*Month Year - Month Year*\
+- Responsibility 1\
+- Responsibility 2\
+- Responsibility 3
+
+## Job Title 2
+
+**Company Name** - *Location*\
+*Month Year - Month Year*\
+- Responsibility 1\
+- Responsibility 2\
+- Responsibility 3
+
+# Skills
+
+- Skill 1
+- Skill 2
+- Skill 3
+- Skill 4
+
+# Projects
+
+## Project 1
+
+- Description of project 1
+- [Link to project](#)
+
+## Project 2
+
+- Description of project 2
+- [Link to project](#)
+
+# Contact
+
+- **Email:** [your.email@example.com](mailto:your.email@example.com)
+- **LinkedIn:** [Your LinkedIn Profile](#)
+- **GitHub:** [Your GitHub Profile](#)
